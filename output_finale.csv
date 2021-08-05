@@ -1,0 +1,101 @@
+images,pixels_out,bbox_out
+1.jpg,not overlapping,yes
+2.jpg,overlapping,yes
+3.jpg,not overlapping,not
+4.jpg,overlapping,yes
+5.jpg,not overlapping,not
+6.jpg,overlapping,yes
+7.jpg,overlapping,yes
+8.jpg,overlapping,yes
+9.jpg,not overlapping,not
+10.jpg,overlapping,yes
+11.jpg,overlapping,yes
+12.jpg,not overlapping,not
+13.jpg,not overlapping,not
+14.jpg,overlapping,yes
+15.jpg,overlapping,yes
+16.jpg,overlapping,yes
+17.jpg,overlapping,yes
+18.jpg,overlapping,yes
+19.jpg,overlapping,yes
+20.jpg,overlapping,yes
+21.jpg,overlapping,yes
+22.jpg,not overlapping,not
+23.jpg,not overlapping,yes
+24.jpg,overlapping,yes
+25.jpg,overlapping,yes
+26.jpg,overlapping,yes
+27.jpg,overlapping,yes
+28.jpg,not overlapping,yes
+29.jpg,not overlapping,yes
+30.jpg,not overlapping,yes
+31.jpg,overlapping,yes
+32.jpg,not overlapping,yes
+33.jpg,overlapping,yes
+34.jpg,overlapping,yes
+35.jpg,overlapping,yes
+36.jpg,not overlapping,yes
+37.jpg,not overlapping,yes
+38.jpg,not overlapping,yes
+39.jpg,overlapping,yes
+40.jpg,overlapping,yes
+41.jpg,overlapping,yes
+42.jpg,overlapping,yes
+43.jpg,overlapping,yes
+44.jpg,overlapping,yes
+45.jpg,overlapping,yes
+46.jpg,overlapping,yes
+47.jpg,overlapping,yes
+48.jpg,overlapping,yes
+49.jpg,overlapping,yes
+50.jpg,not overlapping,not
+51.jpg,overlapping,yes
+52.jpg,not overlapping,yes
+53.jpg,not overlapping,not
+54.jpg,overlapping,yes
+55.jpg,not overlapping,not
+56.jpg,not overlapping,yes
+57.jpg,overlapping,yes
+58.jpg,not overlapping,yes
+59.jpg,not overlapping,not
+60.jpg,not overlapping,not
+61.jpg,not overlapping,not
+62.jpg,not overlapping,yes
+63.jpg,overlapping,yes
+64.jpg,not overlapping,not
+65.jpg,not overlapping,yes
+66.jpg,overlapping,yes
+67.jpg,overlapping,yes
+68.jpg,not overlapping,yes
+69.jpg,not overlapping,yes
+70.jpg,not overlapping,yes
+71.jpg,not overlapping,yes
+72.jpg,not overlapping,yes
+73.jpg,not overlapping,not
+74.jpg,not overlapping,not
+75.jpg,overlapping,yes
+76.jpg,overlapping,yes
+77.jpg,overlapping,yes
+78.jpg,overlapping,yes
+79.jpg,not overlapping,not
+80.jpg,overlapping,yes
+81.jpg,not overlapping,not
+82.jpg,overlapping,yes
+83.jpg,not overlapping,not
+84.jpg,not overlapping,not
+85.jpg,not overlapping,yes
+86.jpg,overlapping,yes
+87.jpg,overlapping,yes
+88.jpg,not overlapping,yes
+89.jpg,not overlapping,yes
+90.jpg,overlapping,yes
+91.jpg,not overlapping,yes
+92.jpg,not overlapping,yes
+93.jpg,not overlapping,yes
+94.jpg,not overlapping,yes
+95.jpg,not overlapping,yes
+96.jpg,not overlapping,yes
+97.jpg,not overlapping,yes
+98.jpg,not overlapping,yes
+99.jpg,not overlapping,yes
+100.jpg ,not overlapping,yes

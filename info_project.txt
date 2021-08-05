@@ -1,0 +1,14 @@
+-clothes and hands contain images and json annotations used for training phase 
+
+-test_set is the set of images used for testing Touch detection
+
+-output_finale.csv and input_finale.csv are the two csv files used for test phase
+
+-models contains the two .h5 files with clothing and hands models obtained with training
+
+-Touch_detection.ipynb is the Google Colab notebook with our project's code
+
+
+Francesca Cardia 1759331
+
+Federica Coppa 1749614
